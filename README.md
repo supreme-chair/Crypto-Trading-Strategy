@@ -1,9 +1,11 @@
 # Team 1 - Crypto Trading Strategy
-Team Members
+Team Members:
+
 Zagrekov Kirill - supreme-chair (GitHub)
+
 Bakalenko Pavel - pavelbakalenko-pixel (GitHub)
+
 Dribnokhod Evgeniy - zemlianin (GitHub)
-# Team 3 - Crypto Trading Strategy
 
 
 ## Strategy Overview
